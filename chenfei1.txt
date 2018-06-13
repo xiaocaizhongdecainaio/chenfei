@@ -1,2 +1,4 @@
-add feature-A chenfei1.txt
+
+add feature-A  add fix-B chenfei1.txt
+
 chenfei1.txt 2
